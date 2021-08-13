@@ -55,7 +55,7 @@
     "firebase-admin": "^5.13.0",
     "firebase-functions": "^1.1.0",
     "lodash": "^4.17.10",
-    "next": "^6.1.1",
+    "next": "^11.1.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.0",
     "react-icons": "^2.2.7",
